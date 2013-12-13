@@ -1,0 +1,7 @@
+{
+  "name": "quolaw_showcase",
+  "version": "0.0.0",
+  "dependencies": {
+    "bootstrap": "~3.0.2"
+  }
+}
